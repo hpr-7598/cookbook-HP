@@ -1,1 +1,1 @@
-This cookbook contains all my favorite reciepes and creations that I have experimented with over the past few years. Some of these recipes were inspired from others and due credit has been given to original creators.
+This cookbook contains all my favorite receipes and creations that I have experimented with over the past few years. Some of these receipes were inspired from others and due credit has been given to original creators.
