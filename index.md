@@ -5,7 +5,7 @@ title: Haripriya’s Cookbook
 
 # 🍲 Welcome to Haripriya's Personal Cookbook
 
-Explore cozy, quick, personally tested and perfected recipes from my kitchen.
+This cookbook contains all my favorite receipes and creations that I have experimented with over the past few years.
 
  [☕ Ginger Tea](../Beverages/ginger-tea)
 
