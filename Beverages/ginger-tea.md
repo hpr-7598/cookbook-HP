@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ginger Tea
+---
+
 # Ginger Tea Recipe
 
 This recipe makes one coffee mug (about 350 ml) of ginger tea.  
