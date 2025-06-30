@@ -7,6 +7,6 @@ title: Home
 
 This cookbook contains all my favorite receipes and creations that I have experimented with over the past few years.
 
- [☕ Ginger Tea](../Beverages/ginger-tea)
+ [☕ Ginger Tea](Beverages/ginger-tea)
 
 New recipes coming soon!
