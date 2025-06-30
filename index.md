@@ -37,3 +37,11 @@ This cookbook contains all my favorite recipes and creations that I have experim
  [☕ Ginger Tea](Beverages/ginger-tea)
 
 New recipes coming soon!
+
+</div>
+
+<div class="flex-image">
+  <img src="/images/me-ghibli.jpg" alt="Hari in Ghibli style">
+</div>
+
+</div>
