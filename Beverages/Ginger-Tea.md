@@ -29,7 +29,7 @@ Pick your favorite mug before you start — it is going to be your measuring cup
 
 4. Around the **14-minute mark**, add the **remaining ginger**, turn off the heat, remove the pan from the stove (to avoid spill-over from residual heat), and **cover it**.
 
-5. Let it steep for **2 more minutes**, then strain the tea into your mug.
+5. Let it sit for **2 more minutes**, then strain the tea into your mug.
 
 6. Sip and enjoy with your favorite snacks or cookies! *(Recipes coming soon...)*
 
