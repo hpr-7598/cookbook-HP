@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Haripriya’s Cookbook
+title: Home
 ---
 
 # 🍲 Welcome to Haripriya's Personal Cookbook
