@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-<img src="/images/me-ghibli.png" alt="Hari in Ghibli style" style="float: right; width: 250px; margin: 1rem; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+<img src="/cookbook-HP/images/me-ghibli.png" alt="Hari in Ghibli style"
+style="float: right; width: 250px; margin: 1rem; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+
 
 # 🍲 Welcome to Haripriya's Personal Cookbook
 
